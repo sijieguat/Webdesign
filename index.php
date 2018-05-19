@@ -83,8 +83,8 @@ $(function(){
 			 
 
 
-<p>We provide buses with comfortable seats and air condition.</p>
-<p>We invite you to enjoy your trip safely by select our bus service. Do enjoy your trips~!</p>	
+<p>We provide buses with comfortable seats to our customers.</p>
+<p>We invite you to enjoy your trip safely by select our bus service. Hope you all enjoy the trips ~!</p>	
   
 
 <div><img src="images/news.gif" alt="" title="" width="100" height="50"/></div>
